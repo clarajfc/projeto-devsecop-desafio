@@ -16,11 +16,11 @@ A pipeline está **incompleta**. Os steps de segurança precisam ser implementad
 5. Documentar o funcionamento da pipeline neste README
 
 ## O que implementar
-- [ ] Secrets Scanning com **Gitleaks**
-- [ ] SAST com **Semgrep**
-- [ ] SCA com **Grype**
+- [x] Secrets Scanning com **Gitleaks**
+- [x] SAST com **Semgrep**
+- [x] SCA com **Grype**
 - [ ] Assinatura do artefato com cosign
-- [ ] Deploy com **GitHub Pages**
+- [x] Deploy com **GitHub Pages**
 
 ## Como a pipeline funciona
 
